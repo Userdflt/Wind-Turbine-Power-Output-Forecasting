@@ -2,7 +2,7 @@
 
 ![Diagram](landscape-with-windmills.jpg)
 
-[CLICK FOR NOTEBOOK - CODE](Power Output Forecasting_Regression.ipynb)
+[CLICK FOR NOTEBOOK - CODE](Power_Output_Forecasting_Regression.ipynb)
 
 # Problem Statement
 
