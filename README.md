@@ -1,5 +1,7 @@
 # Wind-Turbine-Power-Output-Forecasting
 
+![Diagram](landscape-with-windmills.jpg)
+
 [CLICK FOR NOTEBOOK - CODE](Power_Output_Forcasting_Regression.ipynb)
 
 # Problem Statement
