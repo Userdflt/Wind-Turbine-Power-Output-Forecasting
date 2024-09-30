@@ -1,5 +1,7 @@
 # Wind-Turbine-Power-Output-Forecasting
 
+[CLICK FOR NOTEBOOK - CODE](Power_Output_Forcasting_Regression.ipynb)
+
 # Problem Statement
 
 The objective of this project is to forecast power output using historical environmental and temporal data over a three-year period. By employing regression techniques, we aim to predict continuous values of power based on features such as wind speed, temperature, pressure, and time-related variables. Accurate power forecasting is crucial for efficient energy management, cost reduction, and optimizing operations in the energy sector.
