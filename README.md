@@ -1,4 +1,4 @@
-# Wind-Turbine-Power-Output-Forecasting
+# Wind-Turbine-Power-Output-Prediction
 
 ![Diagram](landscape-with-windmills.jpg)
 
